@@ -1,3 +1,6 @@
 [submodule "fullstack-ecom/commercehope-be"]
 	path = fullstack-ecom/commercehope-be
 	url = https://github.com/MonikaGire/ecommerce-nextjs-fullstack-app.git
+[submodule "fullstack-ecom/commercehope-fe"]
+	path = fullstack-ecom/commercehope-fe
+	url = https://github.com/MonikaGire/ecommerce-nextjs-fullstack-app.git
